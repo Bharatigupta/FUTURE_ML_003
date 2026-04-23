@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-An ML-powered resume screening system that automatically ranks 55 candidates based on a job description using TF-IDF similarity, skill matching, and experience scoring.
+An ML-powered resume screening system that automatically ranks 55+ candidates based on a job description using TF-IDF similarity, skill matching, and experience scoring.
 
 ---
 
