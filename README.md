@@ -46,7 +46,7 @@ Final Score = (Similarity × 50%) + (Skill Match × 35%) + (Experience × 15%)
 ```
 FUTURE_ML_03/
 ├── data/
-│   ├── resumes.csv               ← 55 candidate resumes
+│   ├── resumes.csv               ← 55+ candidate resumes
 │   ├── ranked_candidates.csv     ← All candidates ranked
 │   ├── shortlisted.csv           ← Shortlisted candidates
 │   ├── screening_dashboard.png   ← Analysis dashboard
